@@ -3,7 +3,7 @@ A 13Kb javascript game for the JS13K compo of 2025
 
 minify using: npm -g install minify
 
-![](preview.png)
+![](hero.png)
 
 Test it here: [DEMO](https://tamats.com/games/js13k2025/compo)
 
