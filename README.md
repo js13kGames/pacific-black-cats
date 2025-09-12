@@ -9,26 +9,42 @@ Test it here: [DEMO](https://tamats.com/games/js13k2025/compo)
 
 ## Intro
 
-During the WWII there was an allied squad of fighter planes operating in the Pacific known as the Black Cats. Their PBY Catalinas were painted in black so they couldnt be seen at night. They could land on the sea, had a radar, and had a long range. They are considered the first stealth fighter planes.
+**During World War II, there was an Allied squadron of fighter planes in the Pacific known as the Black Cats.**
 
-Their missions were from rescuing downed pilots in the sea to sink enemy vessels using their torpedos.
+Their PBY Catalinas were painted black to blend into the night sky. Equipped with radar, capable of landing on the sea, and boasting long-range endurance, they are often considered the first stealth aircraft.
 
-This game trys to pay tribute to these pilots.
+The Black Cats carried out a wide variety of missions—ranging from rescuing downed pilots at sea to sinking enemy vessels at night with torpedoes.
 
+This game is a tribute to the courage and ingenuity of those pilots.
+
+[Read more about Black Cats in wikipedia](https://en.wikipedia.org/wiki/Consolidated_PBY_Catalina#Night_attack_and_naval_interdiction)
 
 ## KEYS
 
-W/S Pitch
-Q/E Yaw
-A/D Roll
-R/T Engine throttle
-T Fast forward time
-Z Throw Torpedo
-C Shoot guns
-1..9 Change views
-M Map
-N Radar
-Right Moust Button = Binoculars
+W/S = Pitch
+
+Q/E = Yaw
+
+A/D = Roll
+
+R/T = Engine throttle
+
+T = Fast forward time
+
+Z = Throw Torpedo
+
+C = Shoot guns
+
+1..9 = Change views
+
+M = Map
+
+N = Radar
+
+Right Mouse Button = Binoculars
+
+Enter = Change to next available PBY
+
 
 ## Tutorial
 
@@ -37,7 +53,7 @@ There are three missions to accomplish:
 - Sink Japanese transports (careful, they are equipped with AA Guns)
 - Sink Japanese submarines
 
-If you run out of fuel or ammo, fly back to the base and land near it, it will refill them automatically.
+If you run out of fuel or ammo, fly back to the base and land near the tower, it will refill them automatically.
 
 ## Tips
 
