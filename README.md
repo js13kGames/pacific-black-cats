@@ -1,7 +1,7 @@
 # WWII Pacific Black Cats
-A 13Kb javascript game for the JS13K compo of 2025
+A 13Kb javascript game for the JS13K compo of 2025 (theme: Black Cat), using WebGL
 
-minify using: npm -g install minify
+Use the build.sh script to construct the compo.zip
 
 ![](hero.png)
 
@@ -16,7 +16,7 @@ Their missions were from rescuing downed pilots in the sea to sink enemy vessels
 This game trys to pay tribute to these pilots.
 
 
-##KEYS
+## KEYS
 
 W/S Pitch
 Q/E Yaw
@@ -30,7 +30,7 @@ M Map
 N Radar
 Right Moust Button = Binoculars
 
-##Tutorial
+## Tutorial
 
 There are three missions to accomplish:
 - Rescue downed pilots (they float on a raft, they are hard to find)
@@ -39,16 +39,17 @@ There are three missions to accomplish:
 
 If you run out of fuel or ammo, fly back to the base and land near it, it will refill them automatically.
 
-##Tips
+## Tips
 
 Use the scope view (Key 7) to aim better your torpedos.
 Careful with the fuel, if you run out you are lost.
 To sink vessels, try to fly close to the sea, that way they cant shoot you, or wait until is dark.
 Remember to check the map and the radar.
 
-##Comments
+## Comments
 
-I runned out of space too soon while making the game which meant I spent more time reducing the size than adding all the features I had in mind.
+I runned out of space too soon this year while making the game which meant I spent more time reducing the size than adding all the features I had in mind. And I also had to disable lots of them, leaving the game in a semi-broken state.
+I hope to find time to add them in the Director's Cut version
 
 
 
