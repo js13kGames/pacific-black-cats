@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - simulation
+  - action
 directors_cut: https://tamats.com/games/blackcats/
 video: https://youtu.be/GkOCBgFX2Pc
 # See github.com/js13kGames/hello-world for supported frontmatter
